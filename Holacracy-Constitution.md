@@ -90,7 +90,7 @@ Each Circle with more than one Circle Member automatically includes a ***“Faci
 
 #### 1.6.1 Elections & Eligibility
 
-Upon request of any Circle Member, the Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Partners filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
+Upon request of any Circle Member, the Facilitator of a Circle will facilitate elections using the process and rules defined in Article 3 to elect one person into its Facilitator Role and one into its Secretary Role. No Role or Policy may assign these Roles or remove an assignment via any other means, nor modify the required process. The only candidates normally eligible for these elections are those Staff Members filling Roles within the Circle. However, a Policy of the Circle or any Circle ultimately containing the Circle may allow additional candidates or further limit the candidates eligible for election.
 
 #### 1.6.2 Election Term
 
@@ -102,7 +102,7 @@ A Circle may add Accountabilities or Domains to its own Facilitator or Secretary
 
 #### 1.6.4 Surrogates
 
-A surrogate may temporarily act as Facilitator or Secretary if the Role is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or feels unable or unwilling to enact the Role’s duties.
+A surrogate may temporarily act as Facilitator or Secretary if the Role is unfilled, or when the person who normally fills the Role is unavailable for a Circle meeting or otherwise unable to enact the Role’s duties.
 
 In any given instance where a surrogate is needed, the surrogate is, in this order of precedence:
 
