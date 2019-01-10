@@ -1,16 +1,16 @@
-# **Holacracy Constitution - Development Version**
+# **CS Constitution - Development Version**
 
 
 ## Preamble
 
-This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (its **_“Partners”_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
+This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (**_“Staff Members”_** also known collectively as its **_"Staff"_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
 
 
 ## Article 1: Organizational Structure
 
 ### 1.1 Roles
 
-The Organization’s Partners will typically perform the work of the Organization while acting in explicitly defined Roles. A **_“Role”_** definition has a descriptive name and one or more of the following:
+The Organization’s Staff Members will typically perform the work of the Organization while acting in explicitly defined Roles. A **_“Role”_** definition has a descriptive name and one or more of the following:
 
 - **(a)** a **_“Purpose”_**, which is a capacity, potential, or unrealizable goal that the Role will pursue or express on behalf of the Organization.
 - **(b)** one or more **_“Domains”_**, which are assets, processes, or other things the Role may exclusively control and regulate as its property, on behalf of the Organization.
@@ -24,7 +24,7 @@ A Role may control assignments into another Role as a Domain. Anyone filling a R
 
 #### 1.2.1 Eligibility
 
-A Role may only be assigned to a Partner of the Organization, or to someone who has agreed to enact all of the duties required of the assignment. A Role may be assigned to multiple people simultaneously. A Policy may further constrain Role assignments or assignment removals.
+A Role may only be assigned to a Staff Member of the Organization, or to someone who has agreed to enact all of the duties required of the assignment. A Role may be assigned to multiple people simultaneously. A Policy may further constrain Role assignments or assignment removals.
 
 #### 1.2.2 Focusing an Assignment
 
@@ -32,7 +32,7 @@ A Role assigner may further focus an assignment on just a specific area or conte
 
 #### 1.2.3 Supporting Assignments
 
-As a Partner, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds the duties to others when requested by a Role Lead, as further detailed in Article 2. You may only assign Role Supporters within your specific Role assignment focus, if any.
+As a Staff Member, when you serve as Role Lead for a Role, you may assign other people to fill the Role as well as ***Role Supporters***, and you may remove these assignments at any time. A Role Supporter gains the authorities of the Role, but only holds the duties to others when requested by a Role Lead, as further detailed in Article 2. You may only assign Role Supporters within your specific Role assignment focus, if any.
 
 #### 1.2.4 Resigning from Roles
 
@@ -52,7 +52,7 @@ Once a Role controls a Domain, it may create its own Policies governing that Dom
 
 ### 1.4 Circle Leads
 
-Any Partner assigned to fill a Role also automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and also inherits the Purpose and any Accountabilities on the Circle itself. However, within the Circle this only applies to the extent that those Accountabilities have not been placed upon one of the Circle's Roles or otherwise delegated.
+Any Staff Member assigned to fill a Role also automatically fills a **_“Circle Lead Role”_** within that Role's internal Circle, and is thus a ***“Circle Lead”*** while acting in that capacity. The Circle Lead Role has the definition given in Appendix A, and also inherits the Purpose and any Accountabilities on the Circle itself. However, within the Circle this only applies to the extent that those Accountabilities have not been placed upon one of the Circle's Roles or otherwise delegated.
 
 #### 1.4.1 Defining Priorities & Strategies
 
@@ -70,9 +70,9 @@ A Circle may not add Accountabilities or other functions to its own Circle Lead 
 
 Each Circle has a group of ***"Circle Members"*** who may represent its Roles in its Governance Process.
 
-By default, the Circle Members of a Circle include all Partners filling its Circle Lead Role, as well as each Partner serving as Role Lead for a Role within the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
+By default, the Circle Members of a Circle include all Staff Members filling its Circle Lead Role, as well as each Staff Member serving as Role Lead for a Role within the Circle. If a Role has multiple Role Leads, a Circle may adopt a Policy to limit how many of them represent that Role as Circle Members in its Governance Process.
 
-A Circle may also adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, any Partners authorized to represent the invited Role as Circle Members within its own Circle also become Circle Members of the Circle so inviting.
+A Circle may also adopt a Policy to invite an external Role to participate in its Governance Process, or to require one of its Sub-Circles to do so. While such a Policy exists, any Staff Members authorized to represent the invited Role as Circle Members within its own Circle also become Circle Members of the Circle so inviting.
 
 #### 1.5.1 Rep Links
 
