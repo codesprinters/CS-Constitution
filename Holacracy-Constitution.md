@@ -204,21 +204,21 @@ You have a duty to prioritize where to focus your attention and resources in ali
 
 ### 2.5 Working Agreements
 
-The Organization's Partners may make ***“Working Agreements”*** about how they will interact with each other or fulfill their general functions as Partners. Working Agreements are for shaping Partner behaviors that underpin Role-based work, and may not define expectations only relevant when a Partner is already energizing a specific Role, nor expectations around how a Partner will prioritize across different Roles. Working Agreements may only specify concrete acts to do or behavioral constraints to honor, and may not include promises to achieve specific outcomes or embody abstract qualities.
+The Organization's Staff Members may make ***“Working Agreements”*** about how they will interact with each other or fulfill their general functions as Staff Members. Working Agreements are for shaping Staff Member behaviors that underpin Role-based work, and may not define expectations only relevant when a Staff Member is already energizing a specific Role, nor expectations around how a Staff Member will prioritize across different Roles. Working Agreements may only specify concrete acts to do or behavioral constraints to honor, and may not include promises to achieve specific outcomes or embody abstract qualities.
 
-You may request a Working Agreement of any Partner, either in service of a Role you fill or more generally as a Partner. That Partner may choose to accept or reject the requested Working Agreement based on their personal preferences. If accepted, that Partner has a duty to align their behavior with the agreement. A Partner who has agreed to a Working Agreement may later terminate it at any time without the consent of any other party, unless otherwise agreed in a relevant Working Agreement.
+You may request a Working Agreement of any Staff Member, either in service of a Role you fill or more generally as a Staff Member. That Staff Member may choose to accept or reject the requested Working Agreement based on their personal preferences. If accepted, that Staff Member has a duty to align their behavior with the agreement. A Staff Member who has agreed to a Working Agreement may later terminate it at any time without the consent of any other party, unless otherwise agreed in a relevant Working Agreement.
 
 ### 2.6 Implicit Expectations Hold No Weight
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+All of your responsibilities and constraints as a Staff Member of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
 
 ### 2.7 Tactical Meetings
 
-In service of one of their Roles, any Partner may convene a **_“Tactical Meeting”_** to facilitate engaging other Roles in their responsibilities and duties.
+In service of one of their Roles, any Staff Member may convene a **_“Tactical Meeting”_** to facilitate engaging other Roles in their responsibilities and duties.
 
 #### 2.7.1 Attendance
 
-The Partner convening a Tactical Meeting must name the specific Roles invited to that Tactical Meeting, and the Role Leads of those Roles are invited to attend and participate in the meeting. The convener may also invite the Facilitator of a relevant Circle to lead the meeting. There is no advance notice or quorum required for a Tactical Meeting, unless a relevant Policy says otherwise.
+The Staff Member convening a Tactical Meeting must name the specific Roles invited to that Tactical Meeting, and the Role Leads of those Roles are invited to attend and participate in the meeting. The convener may also invite the Facilitator of a relevant Circle to lead the meeting. There is no advance notice or quorum required for a Tactical Meeting, unless a relevant Policy says otherwise.
 
 #### 2.7.2 Facilitation & Process
 
@@ -240,7 +240,7 @@ If an unelected Role invited to a Tactical Meeting is unrepresented in the meeti
 
 ### 2.8 Individual Action
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+As a Staff Member of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
 
 #### 2.8.1 Allowed Situations
 
@@ -253,7 +253,7 @@ You may only take Individual Action when all of the following are true:
 
 #### 2.8.2 Communication & Restoration
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Partners, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Staff Member who fills a Role that may be significantly impacted. Upon the request of any of those Staff Members, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
 
 If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of a Circle Lead of the Circle holding the affected entity.
 
@@ -405,11 +405,11 @@ A Circle may adopt Policies to further constrain when or how Proposals or electi
 
 ### 3.5 Interpreting the Constitution & Governance
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. In so doing, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and avoid using any interpretation that conflicts with that context.
+As a Staff Member of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. In so doing, you must interpret all Governance in the context of the Purpose and Accountabilities of the Circle containing it, and avoid using any interpretation that conflicts with that context.
 
 #### 3.5.1 Secretaries Resolve Interpretation Conflicts
 
-If your interpretation of Governance conflicts with another Partner's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
+If your interpretation of Governance conflicts with another Staff Member's, either party may ask the Secretary of any affected Circle to rule on which interpretation to use. Once a Secretary has made such a ruling, it trumps your own and you are responsible for aligning with it until any underlying Governance changes.
 
 A Circle’s Secretary may overrule an interpretation given by a Secretary of any Sub-Circle. If two Secretaries give conflicting rulings and one is from the Secretary of a Circle that ultimately contains the other Circle, then you are responsible for aligning with the interpretation given by the broader Circle’s Secretary.
 
@@ -421,14 +421,14 @@ A Secretary may only contradict previously published logic or interpretations on
 
 #### 3.5.3 Striking Invalid Governance
 
-Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Partners filling Roles within the Circle that held the offending Governance.
+Anyone filling a Role in a Circle may ask its Secretary to rule on the validity of any Governance of the Circle or any Role or Sub-Circle ultimately contained by the Circle. Upon such a request, if the Secretary concludes the Governance conflicts with the rules of this Constitution, the Secretary must then strike the offending Governance from the acting Governance record. After doing so, the Secretary must promptly communicate what was struck and why to all Staff Members filling Roles within the Circle that held the offending Governance.
 
 
 ## Article 4: Adoption Matters
 
 ### 4.1 Ratifiers Cede Authority
 
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Partners, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
+By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Staff Members, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
 
 ### 4.2 Anchor Circle
 
@@ -493,7 +493,7 @@ However, if the Process Breakdown is not resolved within a reasonable timeframe,
 
 ### 4.5 Constitution Amendments and Repeal
 
-The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Partners of the Organization can access them.
+The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Staff Members of the Organization can access them.
 
 ---
 
