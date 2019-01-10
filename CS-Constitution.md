@@ -1,6 +1,5 @@
 # **CS Constitution - Development Version**
 
-
 ## Preamble
 
 This **_“Constitution”_** defines rules and processes for the governance and operations of an organization. The **_“Ratifiers”_** are adopting these rules as the formal authority structure for the **_“Organization”_** specified upon the Constitution’s adoption, which may be an entire entity or a part of one that the Ratifiers have authority to govern and run. The Ratifiers and anyone else who agrees to take part in the governance and operations of the Organization (**_“Staff Members”_** also known collectively as its **_"Staff"_**) may rely upon the authorities granted by this Constitution, and also agree to be bound by its duties and constraints.
@@ -428,7 +427,9 @@ Anyone filling a Role in a Circle may ask its Secretary to rule on the validity 
 
 ### 4.1 Ratifiers Cede Authority
 
-By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Staff Members, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws.
+By adopting this Constitution, the Ratifiers cede their authority to govern and run the Organization or direct its Staff Members, and may no longer do so except through authority granted to them under the Constitution’s rules and processes. However, as an exception to this rule, the Ratifiers may continue to hold and exercise any authority that they do not have the power to delegate, such as anything required by policies outside of their control, or by the Organization’s bylaws. 
+
+FIXME: add special Super-Policies that the Ratifiers can add, change or remove that can't be changed or broken from within the Organization. These would include stuff like limitting access to information as necessary (eg. financial information beyond the budget assigned to the Organization), removing the explicit authority to spend as desired, impose profit margin and/or other KPIs etc.
 
 ### 4.2 Anchor Circle
 

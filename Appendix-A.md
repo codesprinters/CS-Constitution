@@ -57,3 +57,4 @@ Tensions relevant to process in the broader Circle channeled out and resolved.
 - Scheduling Governance Meetings and Tactical Meetings of the Circle or called by its Roles, and notifying all invited participants
 - Capturing and publishing the outputs of Governance Meetings and Tactical Meetings of the Circle or called by its Roles
 - Interpreting Governance and the Constitution upon request
+
