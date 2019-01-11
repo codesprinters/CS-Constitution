@@ -1,19 +1,19 @@
-# Introduction: Holacracy® Constitution
+# Introduction: CS Constitution
 
-### What is the Holacracy Constitution?
+### What is the CS Constitution?
 
-The Holacracy Constitution documents the core rules, structure, and processes of the Holacracy “operating system” for governing and managing an organization. It provides the foundation for an organization wishing to use Holacracy, by anchoring the shift of power required in concrete and documented “rules of the game”, which everyone involved can rely upon.
+The CS Constitution documents the core rules, structure, and processes of the Holacracy “operating system” for governing and managing an organization. It provides the foundation for an organization wishing to use this Holacracy-based process, by anchoring the shift of power required in concrete and documented “rules of the game”, which everyone involved can rely upon.
 
-### How is the Holacracy Constitution intended to be used?
-The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the <a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Adoption%20Declaration%20Sample.pdf" target="_blank">sample one attached here</a>. See Article V for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not part of the core Constitution document.
+### How is the CS Constitution intended to be used?
+The Constitution is intended to be referenced by whatever declaration or agreement captures the decision to organize using the Holacracy system. That may be a formal set of legal bylaws or similar operating agreement, or a simple board resolution or CEO policy declaration similar to the sample one attached here. See Article 5 for key adoption-related matters. Also note that this explanatory page and the sample declaration are included for informative purposes but are not part of the core Constitution document.
 
-### What the Holacracy Constitution isn’t
-The Holacracy Constitution is **not a complete set of legal bylaws or a formal operating agreement**. (HolacracyOne separately publishes its own operating agreement as an example of a legal governing document that references and incorporates this Constitution.)
+### What the CS Constitution isn’t
+The CS Constitution is **not a complete set of legal bylaws or a formal operating agreement**. 
 
-The Constitution is also **not an instruction manual or a guidebook** for learning to use the Holacracy system. Like the rulebook for a nuanced sport, it can serve as a critical reference at times, but reading it will not teach you how to play the game. If you're looking for an introduction, check out HolacracyOne's <a href="http://holacracy.org/how-it-works" target="_blank">How It Works</a> page and this <a href="http://holacracy.org/intro" target="_blank">Introductory Video</a>.
+The Constitution is also **not an instruction manual or a guidebook** for learning to use the this system or Holacracy  it is derrived from. Like the rulebook for a nuanced sport, it can serve as a critical reference at times, but reading it will not teach you how to play the game. If you're looking for an introduction to Holacracy, check out HolacracyOne's <a href="http://holacracy.org/how-it-works" target="_blank">How It Works</a> page and this <a href="http://holacracy.org/intro" target="_blank">Introductory Video</a>.
 
 ### Legal Disclaimer
-HolacracyOne is not a law firm. The information contained herein is documentation of Holacracy’s rules and processes, and should not be construed as legal advice to be applied to any specific factual situation. You should not rely upon the materials provided in this document in a legal capacity or for legal needs without first consulting an attorney with respect to your specific situation. This document is provided "as-is", without warranty or condition of any kind whatsoever. HolacracyOne does not warrant this document’s quality, accuracy, timeliness, completeness, merchantability, or fitness for use or purpose. To the maximum extent provided by law, HolacracyOne and its agents and members shall not be liable for any damages whatsoever arising from the use of this document.
+Code Sprinters is not a law firm. The information contained herein is documentation of our rules and processes, and should not be construed as legal advice to be applied to any specific factual situation. You should not rely upon the materials provided in this document in a legal capacity or for legal needs without first consulting an attorney with respect to your specific situation. This document is provided "as-is", without warranty or condition of any kind whatsoever. Code Sprinters does not warrant this document’s quality, accuracy, timeliness, completeness, merchantability, or fitness for use or purpose. In fact, we only publish it because we are required to do so by the original license of the Holacracy Constitution it is based on. To the maximum extent provided by law, Code Sprinters and its agents and members shall not be liable for any damages whatsoever arising from the use of this document.
 
 ### Licensing and Usage
 Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in this case, of HolacracyOne LLC. And like other stewards of open platforms, HolacracyOne aims to maintain the integrity of its brand and the quality of what it represents. So, we invite you to make and share your own derivative works of the Holacracy® Constitution, per the terms of our open-source CC BY-SA 4.0 license, and to reference that your work is derived from the official Holacracy Constitution - please include a link to http://holacracy.org/constitution. However, beyond that reference, you may not name or otherwise brand your derivative work using the Holacracy mark, to avoid confusion between your version and the official Holacracy document. If you have any questions, please <a href="http://www.holacracy.org/contact/" target="_blank">contact HolacracyOne</a>!
@@ -21,13 +21,14 @@ Like Linux®, Wikipedia®, and Java®, Holacracy® is a registered trademark; in
 ### Contributors
 Up to version 4.0, the Holacracy Constitution was developed by Brian Robertson and HolacracyOne. 
 
-Contributors to the current version include Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen and Jeffrey Anthony.
+Contributors to the  version 4.1 include Brian Robertson, Rashid Gilanpour, Alexia Bowers, djwork, Martina Röll, Olivier Compagne, Koen Veltman, Mieke Byerley, Diederick Janse, Karilen Mays, Bernard Marie Chiquet, Tim Kelley, Dien Kwik, Kræn Hansen and Jeffrey Anthony.
+
+Version 4.2CS - or the CS Constitution - developed by Andy Brandt andy@codesprinters.com. 
 
 ---
 
-#### An always up to date compiled PDF of the Holacracy Constitution - Development Version (<a href="https://github.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">Holacracy-Constitution.md</a>) is available <a href="https://gitprint.com/holacracyone/Holacracy-Constitution/blob/master/Holacracy-Constitution.md" target="_blank">HERE</a>
-
----
+# FIX
+Below is to be fixed, not edited yet after the fork.
 
 # Table of Contents
 
