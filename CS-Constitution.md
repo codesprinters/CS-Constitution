@@ -17,7 +17,7 @@ The Organization’s Staff Members will typically perform work for the Organizat
 
 ### 1.2 Responsibilities of Role-Filling
 
-As a Partner of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
+As a Staff Member of the Organization, you have the following responsibilities for each Role that you are assigned to and agree to fill:
 
 #### 1.2.1 Processing Tensions
 
@@ -44,13 +44,13 @@ Whenever you have time available to act in your Role, you are responsible for co
 
 ### 1.3 Authority to Act
 
-As a Partner assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
+As a Staff Member assigned to a Role, you have the authority to execute any Next-Actions you reasonably believe are useful for enacting your Role’s Purpose or Accountabilities.
 
 However, you cannot exert control or cause a material impact within a Domain owned by another Role or another sovereign entity, unless you have their permission. The authority granted in this paragraph is further limited by Section 2.1.3.
 
 ### 1.4 Authority over Domains
 
-As a Partner assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
+As a Staff Member assigned to a Role, you have the authority to control and regulate each Domain of your Role. You may do this on a case-by-case basis when others request permission to impact one of your Domains, by considering the request and allowing or withholding permission.
 
 You may also define **_“Policies”_** for your Domains, which are either grants of authority that allow others to control or cause a material impact within a Domain, or limits on how others may do so when otherwise authorized. Before a Policy is valid, you must first publish it in a forum convenient to all Staff Members who may be impacted.
 
@@ -119,7 +119,7 @@ The Core Circle Members are determined using the following rules:
 
 Unless a special appointment or exclusion is made under the terms of this section, the Core Circle Members of a Circle are:
 
-- **(a)** each Partner filling a Defined Role in the Circle;
+- **(a)** each Staff Member filling a Defined Role in the Circle;
 - **(b)** the Lead Link of the Circle, as defined in Section 2.2;
 - **(c)** each Rep Link elected to the Circle, as defined in Section 2.6.4;
 - **(d)** and each Cross Link into the Circle, as defined in Section 2.7.
@@ -132,9 +132,9 @@ The Policy can define a pathway for the excluded Staff Members to process Tensio
 
 #### 2.3.3 Exclusion for Minor Allocations
 
-Sometimes, a Partner allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Partner from serving as a Core Circle Member as a result of that Role assignment.
+Sometimes, a Staff Member allocates only a very minor, nearly insignificant amount of attention to a Defined Role in a Circle. If the Circle's Lead Link reasonably believes this is the case, the Lead Link may exclude that Staff Member from serving as a Core Circle Member as a result of that Role assignment.
 
-If a Partner is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Partner, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Partner to process Tensions related to that Role.
+If a Staff Member is so excluded, the Lead Link has a duty to consider and process Tensions conveyed by the excluded Staff Member, exactly as a Rep Link would were the Role a Sub-Circle, unless an alternate pathway is defined for the excluded Staff Member to process Tensions related to that Role.
 
 #### 2.3.4 Special Appointments of Core Members
 
@@ -409,7 +409,7 @@ Governance Meetings are primarily intended to support a Circle’s Governance Pr
 
 ### 3.4 Interpreting the Constitution & Governance
 
-As a Partner of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
+As a Staff Member of the Organization, you may use your reasonable judgment to interpret this Constitution and any Governance within the Organization, including how these apply within a specific situation, and then act based on your interpretation. You may also rely on an explicit interpretation given by the Secretary of any Circle that is affected by the Governance. However, in either case, the following additional terms apply:
 
 #### 3.4.1 Secretary Interpretation Trumps
 
@@ -494,7 +494,7 @@ As a Lead Link, Rep Link, or Cross Link into a Circle, you may invite someone el
 
 #### 4.1.5 Implicit Expectations Hold No Weight
 
-All of your responsibilities and constraints as a Partner of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
+All of your responsibilities and constraints as a Staff Member of the Organization are defined in this Constitution, and in the Governance that results from it. No former or implicit expectations or constraints carry any weight or authority, unless a Circle’s Governance explicitly empowers them, or they come from a basic obligation or contractual agreement you personally have to or with the Organization.
 
 ### 4.2 Tactical Meetings
 
@@ -532,7 +532,7 @@ If a Defined Role of the Circle is entirely or partially unrepresented at a Tact
 
 ### 4.3 Individual Action
 
-As a Partner of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
+As a Staff Member of the Organization, in some cases you are authorized to act outside of the authority of your Roles, or even to break the rules of this Constitution. By acting under this extended authority you are taking **_“Individual Action”_**, and you are bound by the following rules:
 
 #### 4.3.1 Allowed Situations
 
@@ -545,7 +545,7 @@ You may only take Individual Action when all of the following are true:
 
 #### 4.3.2 Communication & Restoration
 
-Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Partner who fills a Role that may be significantly impacted. Upon the request of any of those Staff Members, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
+Upon taking Individual Action, you have a duty to explain your action and the intent behind it to any Staff Member who fills a Role that may be significantly impacted. Upon the request of any of those Staff Members, you also have a duty to take any reasonable additional actions to assist in resolving any Tensions created by your Individual Action.
 
 If your Individual Action was effectively acting within another Role, or violated a Domain or a Policy, then you must cease from continuing to take similar Individual Action upon request of whoever normally controls that Role, Domain, or Policy, or upon request of the Lead Link of the Circle holding the affected entity.
 
@@ -610,6 +610,26 @@ However, these legacy policies and systems will lose all weight and authority as
 ### 5.5 Constitution Amendments and Repeal
 
 The Ratifiers or their successors may amend this Constitution or repeal it entirely, using whatever authority and process they relied upon to adopt it. Amendments must be in writing and published where all Staff Members of the Organization can access them.
+
+## 6 Amendments
+
+### Amendment 1 - Power to choose Anchor Circle Lead Link
+
+The Ratifiers can replace the Anchor Circle Lead Link at any time.
+
+The Ratifiers have to approve a successor to the Lead Link role if such was appointed by the current Lead Link (5.2.4).
+
+### Amendment 2 - Core Policies
+
+The Core Policies are Policies that apply to the whole Organization. The Ratifiers can at any time add, amend or remove Core Policies. No Circle or Role can change, repeal or act against those Core Policies. 
+
+Upon change to Core Policies all Policies in the Organization must be changed to align with the new Core Policies. This is done through the normal governance proces of the Anchor Circle and its sub-circles. The Lead Link of each Circle has a duty to bring the discrepancy between Circle's Policies and the Core Policies as a Tension to be resolved in the next Governance Meeting.  
+
+The Core Policies are kept in the governance records of the Anchor Circle and if doubts arise as to their meaning are interpreted by the Anchor Circle's Secretary. 
+
+### Amendment 3 - Organization Purpose
+
+The Ratifiers define the Organization's purpose and only Ratifiers can change it. 
 
 ---
 
