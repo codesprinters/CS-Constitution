@@ -617,7 +617,7 @@ The Ratifiers or their successors may amend this Constitution or repeal it entir
 
 The Ratifiers can replace the Anchor Circle Lead Link at any time.
 
-The Ratifiers have to approve a successor to the Lead Link role if such was appointed by the current Lead Link (5.2.4).
+The Ratifiers have to approve a successor to the Anchor Circle Lead Link role if such was appointed by the current Lead Link (5.2.4).
 
 ### Amendment 2 - Core Policies
 
